@@ -1,6 +1,6 @@
 #ejercicio_1003
-a=int(input("ingrese el primer valor"))
-b=int(input("ingrese el primer valor"))
+a=int(input(""))
+b=int(input(""))
 soma=int
 soma=a+b
 print ("SOMA","=",soma)
