@@ -1,0 +1,11 @@
+datos=input()
+a,b,c=datos.split(" ")
+a=int(a)
+b=int(b)
+c=int(c)
+
+
+if(1 <= a,b,c <= 1000):
+    print("N")
+elif(1 >= a,b,c >= 1000):
+    print("S")
